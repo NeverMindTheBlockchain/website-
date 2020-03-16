@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Forty V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Forty by HTML5 UP"
+    title: "Never Mind the Blockchain",
+    author: "Adam Hall & Will Abramson",
+    description: "A research driven consultancy for developing human focused tools for forming and extending trust in digital relationships, without infringing on citizens rights to privacy and freedom."
   },
   plugins: [
     'gatsby-plugin-react-helmet',
