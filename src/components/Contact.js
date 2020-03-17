@@ -6,11 +6,11 @@ const Contact = (props) => (
             <section>
                 <form method="post" action="#">
                     <div className="field half first">
-                        <label htmlFor="name">Name</label>
+                        <label htmlFor="name">Never Mind The Blockchain</label>
                         <input type="text" name="name" id="name" />
                     </div>
                     <div className="field half">
-                        <label htmlFor="email">Email</label>
+                        <label htmlFor="email"></label>
                         <input type="text" name="email" id="email" />
                     </div>
                     <div className="field">
@@ -41,10 +41,7 @@ const Contact = (props) => (
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-home"></span>
-                        <h3>Address</h3>
-                        <span>1234 Somewhere Road #5432<br />
-                        Nashville, TN 00000<br />
-                        United States of America</span>
+                        <h3>Edinburgh, UK</h3>
                     </div>
                 </section>
             </section>
